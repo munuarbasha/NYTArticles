@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYT Articles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_more">More</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="search">Search</string>
+    <string name="error">Error Message</string>
+    <string name="ok">OK</string>
+    <string name="article_image">Article Thumbnail Image</string>
+    <string name="date_icon">Date Icon</string>
+    <string name="navigation_icon">Navigation Icon</string>
+</resources>
